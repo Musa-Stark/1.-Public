@@ -1,6 +1,6 @@
 # 1st Public Repo
 
-<p>On Fri Mar 27 3:04PM (linux)</p>
+<p>--- Now On Fri Mar 27 3:04PM (linux)</p>
 
 Welcome to the 1st public repository!<br>
 This repository is designed to help you get started with GitHub.<br>
